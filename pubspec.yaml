@@ -11,10 +11,10 @@ dependencies:
   flutter:
     sdk: flutter
     
+  extended_image_library: ^0.1.3
   extended_text_library: 
     git: https://github.com/Vavara89/extended_text_library
     ref: 83110ed1d359cdc03406e1cad9a6617d62491695
-  extended_image_library: ^0.1.3
 
 dev_dependencies:
   flutter_test:
